@@ -1,9 +1,9 @@
 //declaração de array
-let array = ["Caio", "Akatsu"] 
+let array = ["caue", "nogueira"] 
 
 //montando objeto
 let objeto = {
-    nome: "Caio",
+    nome: "caue",
     idade: "17"
 }
 
